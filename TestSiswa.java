@@ -14,7 +14,7 @@ class Siswa {
 
     // Method: Mengakses materi pembelajaran
     public void aksesMateri() {
-        System.out.println(username + " telah mengakses materi pembelajaran.");
+        System.out.println(username + " sedang mengakses materi pembelajaran.");
     }
 
     // Method: Mengerjakan quiz
@@ -38,3 +38,4 @@ public class TestSiswa {
     }
 
 }
+
